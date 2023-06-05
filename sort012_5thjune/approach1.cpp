@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
-using namespace std; 
+using namespace std;
+
+//first placing the zeros and then the 1s
 void sort012(int *arr, int n)
 {
    //   Write your code here

@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
-using namespace std; 
+using namespace std;
+
+//simulataneously placing the 0s from front and the 2s from back
 void sort012(int *arr, int n)
 {
    //   Write your code here
